@@ -1,0 +1,17 @@
+Q1: Count of total orders.
+Q2: Count of total customer id.
+Q3: Count of total City
+Q4: Count of total state.
+Q5: Count of total customers.
+Q6: Top 5 state which have highest and lowest sales.
+Q7: Top 3 city that have highest and lowest sales.
+Q8: Which customer led to most sales? Give name and id both.
+Q9: Which customer lead to least sales?Give name and id both.
+Q10: What is the Increase in revenue percentage as compared to past year?
+Q11: Which ship mode led to highest revenue?
+Q12: Which segment is suffering from loss??
+Q13: Profit by sub categories
+Q14: How many unique products are there?
+Q15: Which product have highest quantity sold?
+Q16: On which category highest average discount is give?
+Q17: All the order id where there is loss.
